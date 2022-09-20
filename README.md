@@ -13,17 +13,17 @@
 ##  Awards
 |Name|Date|prize|
 |----------|-------------|-------------|
-|[Social Security Eureka 2022]Entrepreneurship competition to discover national happiness service using public and private bigdata |2022.07.20.| Excellence prize |
+|[Social Security Eureka 2022]Entrepreneurship competition to discover national happiness service using public and private bigdata |2022.07.20.| **Excellence prize** |
 | Digital Health-care MEDICAL HACK 2022 |2022.08.19.| Advance to the finals |
 
 
 ##  Main Project
 |Project|Date|Remarks|Progress| 
 |----------|-------------|--------------|------|
-| Image-based skin diagnosis using AI technology |2022.09.21. ~ 2022.11.30.|Team Project|Proceeding|
-| Kneeling bus reservation system |2022.09.19. ~ 2022.09.30.|Team Project|Proceeding|
-| Search for nutrition balanced food for you |2022.08.08. ~ 2022.09.16.|Team Project|Completion|
-| Chest X-Ray Images (Pneumonia) project |2022.05.25. ~ 2022.05.27.|Team Project|Completion|
+| Image-based skin diagnosis using AI technology |2022.09.21. ~ 2022.11.30.|  Team Project  |Proceeding|
+| Kneeling bus reservation system |2022.09.19. ~ 2022.09.30.| Team Project  |Proceeding|
+| Search for nutrition balanced food for you |2022.08.08. ~ 2022.09.16.|  Team Project  |**Completion**|
+| Chest X-Ray Images (Pneumonia) project |2022.05.25. ~ 2022.05.27.|  Team Project  |**Completion**|
 
 I learned the importance of cooperation and pull together a plan for company with my team.
 
