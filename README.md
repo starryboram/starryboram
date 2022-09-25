@@ -4,7 +4,7 @@
 <h5 align="center">Study log & Contact me</h5>
 <p align="center">
   <a href="https://velog.io/@starry_ram"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@starry_ram"/></a>&nbsp
-  <a href="https://www.notion.so/Starry-ram-Portpolio-e74cc1c45501463d844fef9f8bcc44cc" target="_blank">
+  <a href="https://www.notion.so/Study-blog-31f37f8bb93848a498cec85d0fdc09fa" target="_blank">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:boramplay93@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=boramplay93@gmail.com"/></a>
 </p>
