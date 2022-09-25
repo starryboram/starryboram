@@ -20,10 +20,9 @@
 ##  Main Project
 |Project|Date|Remarks|Progress| 
 |----------|-------------|--------------|------|
-| Image-based skin diagnosis using AI technology |2022.09.21. ~ 2022.11.30.|  Team Project  |Proceeding|
-| Kneeling bus reservation system |2022.09.19. ~ 2022.09.30.| Team Project  |Proceeding|
-| Search for nutrition balanced food for you |2022.08.08. ~ 2022.09.16.|  Team Project  |**Completion**|
-| Chest X-Ray Images (Pneumonia) project |2022.05.25. ~ 2022.05.27.|  Team Project  |**Completion**|
+| [Image-based skin diagnosis using AI technology](https://github.com/ji-hun-choi/skin_diagnose) |2022.09.21. ~ 2022.11.30.|  Team Project  |Proceeding|
+| [Kneeling bus reservation system](https://github.com/LearningnRunning/NBus) |2022.09.19. ~ 2022.10.05.| Team Project  |Proceeding|
+| [Search for nutrition balanced food for you](https://github.com/kyky7896/Snubfy_project) |2022.08.08. ~ 2022.09.16.|  Team Project  |**Completion**|
 
 I learned the importance of cooperation and pull together a plan for company with my team.
 
@@ -31,6 +30,11 @@ It is not only strong point but also can be great advantages to work with my co-
 
 If you have any research or project you want to share with me, please leave me a message!😎
 
+## Etc
+|Toy Project|Date|Remarks|Progress| 
+|----------|-------------|--------------|------|
+| [Bike sharing demand prediction project](https://github.com/starryboram/Toy-project) |2022.04.21. ~ 2022.04.25.|  Team Project(toy)  |**Completion**|
+| [Chest X-Ray Images (Pneumonia) project](https://github.com/starryboram/Toy-project) |2022.05.25. ~ 2022.05.27.|  Team Project(toy)  |**Completion**|
 
 ##  Skill
 <h5 align="center">Used at project</h5>
