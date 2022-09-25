@@ -30,11 +30,6 @@ It is not only strong point but also can be great advantages to work with my co-
 
 If you have any research or project you want to share with me, please leave me a message!😎
 
-## Etc
-|Toy Project|Date|Remarks|Progress| 
-|----------|-------------|--------------|------|
-| [Bike sharing demand prediction project](https://github.com/starryboram/Toy-project) |2022.04.21. ~ 2022.04.25.|  Team Project(toy)  |**Completion**|
-| [Chest X-Ray Images (Pneumonia) project](https://github.com/starryboram/Toy-project) |2022.05.25. ~ 2022.05.27.|  Team Project(toy)  |**Completion**|
 
 ##  Skill
 <h5 align="center">Used at project</h5>
@@ -63,3 +58,10 @@ If you have any research or project you want to share with me, please leave me a
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starryboram&theme=buefy&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starryboram)](https://github.com/starryboram/github-readme-stats)
+
+
+## Etc
+|Toy Project|Date|Remarks|Progress| 
+|----------|-------------|--------------|------|
+| [Bike sharing demand prediction project](https://github.com/starryboram/Toy-project) |2022.04.21. ~ 2022.04.25.|  Team Project(toy)  |**Completion**|
+| [Chest X-Ray Images (Pneumonia) project](https://github.com/starryboram/Toy-project) |2022.05.25. ~ 2022.05.27.|  Team Project(toy)  |**Completion**|
