@@ -18,8 +18,8 @@
 ##  Main Project
 |Project|Date|Remarks|Progress| 
 |----------|-------------|--------------|------|
-| [Image-based skin diagnosis using AI technology](https://github.com/ji-hun-choi/skin_diagnose) |2022.09.21. ~ 2022.11.30.|  Team Project  |Proceeding|
-| [Kneeling bus reservation system](https://github.com/LearningnRunning/NBus) |2022.09.19. ~ 2022.10.05.| Team Project  |Proceeding|
+| [Image-based skin diagnosis using AI technology](https://github.com/ji-hun-choi/skin_diagnose) |2022.09.21. ~ 2022.12.15.|  Team Project  |Proceeding|
+| [Kneeling bus reservation system](https://github.com/LearningnRunning/NBus) |2022.09.19. ~ 2022.10.14.| Team Project  |Proceeding|
 | [Search for nutrition balanced food for you](https://github.com/kyky7896/Snubfy_project) |2022.08.08. ~ 2022.09.16.|  Team Project  |**Completion**|
 
 I learned the importance of cooperation and pull together a plan for company with my team.
