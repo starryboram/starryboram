@@ -54,9 +54,7 @@ If you have any research or project you want to share with me, please leave me a
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=Zoom&logoColor=white"/></a></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starryboram&theme=buefy&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starryboram)](https://github.com/starryboram/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starryboram&show_icons=true&theme=graywhite)
 
 ## Etc
 |Toy Project|Date|Remarks|Progress| 
