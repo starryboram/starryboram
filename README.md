@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=purple&height=300&section=header&text=Hi!%20I'm%20Boram%20Kim&fontSize=90)
 
-<h3 align="center">I'm interested in Data Analysis, Machine Learning and Deep learning</h3>
 <h5 align="center">Study log & Contact me</h5>
 <p align="center">
   <a href="https://velog.io/@starry_ram"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@starry_ram"/></a>&nbsp
